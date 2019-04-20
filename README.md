@@ -1,8 +1,8 @@
 Welcome to the Infinifort Builds Repo
 
-Stable Version is: 1.33.5.1 "Dapper Acid"
+Stable Version is: 6.73.25.4 "Immense Draconian"
 
-Newest Version is: 2.56.6.2 "Ethereal Slime"
+Newest Version is: 6.73.25.4 "Immense Draconian"
 
 I'll be uploading and storing my builds here for people to download.
 Enjoy!
